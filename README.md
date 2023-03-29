@@ -23,4 +23,4 @@ cd repositorio-com-readme
 ```
 
 ### Link bom pra ver mais possibilidades de edição em MD:<br>
-<a href="(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)">Markdown Cheatsheet</a>
+<a href="(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)" target="_blank">Markdown Cheatsheet</a>
